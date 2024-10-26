@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python run.py --do_train --task qa --dataset squad --output_dir ./trained_model/
